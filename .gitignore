@@ -1,0 +1,9 @@
+# pycache
+__pycache__/
+
+# virtualenv
+venv/
+
+# outputs
+*.qoi
+*.png
